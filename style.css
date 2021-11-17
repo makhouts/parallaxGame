@@ -1,0 +1,23 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.layer1 {
+    width: 100%;
+    height: 100vh;
+    background: url(./assets/bg.jpg);
+    background-size: cover;
+    position: absolute;
+    background-position-x: 0px;
+}
+
+/*.layer2 {
+    width: 100%;
+    height: 100vh;
+    background: url(./assets/stars.png);
+    background-size: cover;
+    position: absolute;
+    background-position-x: 0px;
+}*/
